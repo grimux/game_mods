@@ -4,7 +4,10 @@ author: Jacob Meredith
 date: July 09, 2020
 ---
 
-This mod pack contains the following mods:
+Dragon's Dogma Mod Pack
+=======================
+
+### This mod pack contains the following mods:
 
 - Adjusted augment tweaks
 	- Buffs most augments
