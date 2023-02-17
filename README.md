@@ -21,5 +21,6 @@ This mod pack contains the following mods:
 - Mystic Knight 30 minute buffs
 - Replace intro movies with darker splash screen
 	- rom\Initialize.arc
+- Replace intro song with the one from the Japanese release (Into Free), plus loop to US version song.
 - A sweetFX enhancement
 - A `dinput8` hook that provides a cheat/options menu in-game (F12)
