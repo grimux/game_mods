@@ -4,16 +4,19 @@ author: grimux
 date: 02/17/2023
 ---
 
-Path:  C:\Program Files (x86)\Steam\SteamApps\common\Half-Life 2\hl2\cfg
+Half-Life 2 autoexec
+====================
 
 Installation
-============
+-------------
 Put this autoexec file into the following path:
 
 `$hl2_base_dir/hl2/cfg`
 
+Example: `C:\Program Files (x86)\Steam\SteamApps\common\Half-Life 2\hl2\cfg`
+
 Usage
-=====
+-----
 Add the following line to to `config.cfg`.
 
 `bind "k" "exec autoexec"`
