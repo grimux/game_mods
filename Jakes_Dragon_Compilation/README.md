@@ -13,7 +13,7 @@ This mod pack contains the following mods:
 	- I like being OP.
 - Clothing inventory ID
 	- Makes it eaiser to tell what is clothing and what is armor.
-- Double carry weight capacity
+- No carry weight
 - Extended weal and prosperity
 - GUI and glow retexture
 	- Changes the glow texture of lantern and weapon enchants to improve visibility in dark environments.
