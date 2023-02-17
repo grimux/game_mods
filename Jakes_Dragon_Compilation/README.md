@@ -21,14 +21,17 @@ This mod pack contains the following mods:
 - Increased RC rewards
 - Mystic Knight 30 minute buffs
 - No carry weight
+	- Changes carry limit for all classes to 10,000 which is practically limitless.
 - Unlimited sprint
+	- Stamina will no longer drain when sprinting. However, skills will still consume stamina.
 - Higher jump by SnowyOmen
 	- Increases your jump height by about 1.6x, looks pretty believable, and lets you explore more freely.
 
 ### Textures and Graphics
 - Clothing inventory ID
-	- Makes it eaiser to tell what is clothing and what is armor.
+	- Adds a blue glow to clothing inventory icons so you can easily tell them apart without having to select/hover over them.
 - Extended weal and prosperity
+	- Weal and Prosperity conditions will now last 8 gameplay hours. They remain active even after saving the game. They're activated after using certain items in-game such as the Pilgrim´s Charm. Sleep at an inn to deactivate them.
 - GUI and glow retexture
 	- Changes the glow texture of lantern and weapon enchants to improve visibility in dark environments.
 - Custom GUI textures and icons Overhaul by vj88
